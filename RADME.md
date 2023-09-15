@@ -1,5 +1,5 @@
 # Taller de Repaso
 
-Emmanuel Calad Correa
-POO
-Universidad de Medellin
+-Emmanuel Calad Correa
+-POO
+-Universidad de Medellin
